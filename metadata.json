@@ -1,0 +1,5 @@
+{
+  "name": "Plant Care Tracker",
+  "description": "A responsive web application to help users track and manage the care of their plants. Features include adding, viewing, and managing a personal plant collection, with helpful tips and guides for plant enthusiasts.",
+  "requestFramePermissions": []
+}
